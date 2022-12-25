@@ -1,4 +1,4 @@
-<code><pre>--// Setting \\--
+--// Setting \\--
 local range = 15
 
 --// Variable \\--
